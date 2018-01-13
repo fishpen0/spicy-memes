@@ -3,3 +3,6 @@
 
 # VirtualEnvs
 .venv/*
+
+# Python Trash
+__pycache__/
