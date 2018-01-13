@@ -1,6 +1,6 @@
 emojis:
-- name: .DS_Store
-  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/.DS_Store
+- name: dunkin.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/dunkin.png
 - name: terraform.png
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/terraform.png
 title: logos
