@@ -10,24 +10,16 @@ emojis:
     src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/awthanks.png
   - name: aww
     src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/aww.png
-  - name: awwyiss
-    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/awwyiss.png
-  - name: awyeah
-    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/awyeah.png
   - name: badass
     src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/badass.png
   - name: badpokerface
     src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/badpokerface.png
-  - name: catchemall
-    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/catchemall.png
   - name: ceilingcat
     src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/ceilingcat.png
   - name: cerealspit
     src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/cerealspit.png
   - name: challengeaccepted
     src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/challengeaccepted.png
-  - name: chef
-    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/chef.png
   - name: content
     src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/content.png
   - name: derp
@@ -36,10 +28,6 @@ emojis:
     src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/doge.png
   - name: dumb
     src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/dumb.png
-  - name: evilburns
-    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/evilburns.png
-  - name: excellent
-    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/excellent.png
   - name: facepalm
     src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/facepalm.png
   - name: foreveralone
@@ -84,8 +72,6 @@ emojis:
     src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/sadpanda.png
   - name: sadtroll
     src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/sadtroll.png
-  - name: slowpoke
-    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/slowpoke.png
   - name: standup
     src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/spicy/standup.gif
   - name: success
