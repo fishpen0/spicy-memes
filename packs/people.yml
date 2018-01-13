@@ -1,0 +1,8 @@
+emojis:
+- name: alice.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/people/alice.png
+- name: don.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/people/don.png
+- name: ryan.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/people/ryan.png
+title: people
