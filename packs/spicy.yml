@@ -1,4 +1,112 @@
 title: Spicy
 emojis:
+  - name: allthethings
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/allthethings.png
+  - name: areyoukiddingme
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/areyoukiddingme.png
+  - name: awesome
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/awesome.png
+  - name: awthanks
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/awthanks.png
+  - name: aww
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/aww.png
+  - name: awwyiss
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/awwyiss.png
+  - name: awyeah
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/awyeah.png
+  - name: badass
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/badass.png
+  - name: badpokerface
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/badpokerface.png
+  - name: catchemall
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/catchemall.png
+  - name: ceilingcat
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/ceilingcat.png
+  - name: cerealspit
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/cerealspit.png
+  - name: challengeaccepted
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/challengeaccepted.png
+  - name: chef
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/chef.png
+  - name: content
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/content.png
+  - name: derp
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/derp.png
+  - name: doge
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/doge.png
+  - name: dumb
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/dumb.png
+  - name: evilburns
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/evilburns.png
+  - name: excellent
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/excellent.png
+  - name: facepalm
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/facepalm.png
+  - name: foreveralone
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/foreveralone.png
+  - name: fu
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/fu.png
+  - name: fuckyeah
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/fuckyeah.png
+  - name: goodnews
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/goodnews.png
+  - name: haha
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/haha.png
+  - name: ilied
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/ilied.png
+  - name: iseewhatyoudidthere
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/iseewhatyoudidthere.png
+  - name: itsatrap
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/itsatrap.png
+  - name: lol
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/lol.png
+  - name: megusta
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/megusta.png
+  - name: notbad
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/notbad.png
+  - name: nothingtodohere
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/nothingtodohere.png
+  - name: notsureif
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/notsureif.png
+  - name: ohgodwhy
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/ohgodwhy.png
+  - name: okay
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/okay.png
+  - name: omg
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/omg.png
+  - name: orly
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/orly.png
+  - name: pokerface
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/pokerface.png
+  - name: rageguy
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/rageguy.png
+  - name: sadpanda
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/sadpanda.png
+  - name: sadtroll
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/sadtroll.png
   - name: slowpoke
     src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/slowpoke.png
+  - name: standup
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/standup.gif
+  - name: success
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/success.png
+  - name: sweetjesus
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/sweetjesus.png
+  - name: troll
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/troll.png
+  - name: unacceptable
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/unacceptable.png
+  - name: wat
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/wat.png
+  - name: whynotboth
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/whynotboth.gif
+  - name: wtf
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/wtf.png
+  - name: yey
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/yey.png
+  - name: yougotitdude
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/yougotitdude.gif
+  - name: yuno
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/yuno.png
+  - name: zoidberg
+    src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/zoidberg.png
