@@ -1,0 +1,16 @@
+emojis:
+- name: climbing.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/personal/climbing.png
+- name: ditto.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/personal/ditto.png
+- name: evilburns.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/personal/evilburns.png
+- name: excellent.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/personal/excellent.png
+- name: ketchup.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/personal/ketchup.png
+- name: slowpoke.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/personal/slowpoke.png
+- name: themoreyouknow.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/personal/themoreyouknow.png
+title: personal
