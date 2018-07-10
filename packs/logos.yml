@@ -11,6 +11,8 @@ emojis:
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/cafe_nero.png
 - name: dunkin.png
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/dunkin.png
+- name: starbucks.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/starbucks.png
 - name: terraform.png
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/terraform.png
 title: logos
