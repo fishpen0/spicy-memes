@@ -1,4 +1,6 @@
 emojis:
+- name: blank.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/blank.png
 - name: dunkin.png
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/dunkin.png
 - name: terraform.png
