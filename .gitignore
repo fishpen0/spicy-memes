@@ -2,7 +2,7 @@
 *.env
 
 # VirtualEnvs
-.venv/*
+venv/*
 
 # Python Trash
 __pycache__/
