@@ -7,6 +7,8 @@ emojis:
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/atari.png
 - name: blank.png
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/blank.png
+- name: cafe_nero.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/cafe_nero.png
 - name: dunkin.png
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/dunkin.png
 - name: terraform.png
