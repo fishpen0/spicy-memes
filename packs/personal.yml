@@ -9,6 +9,12 @@ emojis:
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/personal/excellent.png
 - name: ketchup.png
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/personal/ketchup.png
+- name: neutral.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/personal/neutral.png
+- name: neutral_left.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/personal/neutral_left.png
+- name: neutral_right.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/personal/neutral_right.png
 - name: slowpoke.png
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/personal/slowpoke.png
 - name: themoreyouknow.png
