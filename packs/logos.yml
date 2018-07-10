@@ -3,6 +3,8 @@ emojis:
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/amazon.png
 - name: android.png
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/android.png
+- name: atari.png
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/atari.png
 - name: blank.png
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/blank.png
 - name: dunkin.png
