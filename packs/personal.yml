@@ -19,6 +19,6 @@ emojis:
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/personal/slowpoke.png
 - name: themoreyouknow
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/personal/themoreyouknow.png
-- name: vomit
-  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/personal/vomit.png
+- name: vomit_blob
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/personal/vomit_blob.png
 title: personal
