@@ -10,4 +10,3 @@ if [ command -v emojipacks ]; then
 else
     echo "Install emojipacks! https://github.com/lambtron/emojipacks"
 fi
-
