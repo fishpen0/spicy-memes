@@ -1,0 +1,10 @@
+emojis:
+- name: cool_beans
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/misc/cool_beans.png
+- name: gopher
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/misc/gopher.gif
+- name: plus-plus
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/misc/plus-plus.png
+- name: plus-plus-plus-plus-plus-plus-plus-plus
+  src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/misc/plus-plus-plus-plus-plus-plus-plus-plus.png
+title: misc

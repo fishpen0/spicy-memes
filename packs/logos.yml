@@ -1,18 +1,18 @@
 emojis:
-- name: amazon.png
+- name: amazon
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/amazon.png
-- name: android.png
+- name: android
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/android.png
-- name: atari.png
+- name: atari
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/atari.png
-- name: blank.png
+- name: blank
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/blank.png
-- name: cafe_nero.png
+- name: cafe_nero
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/cafe_nero.png
-- name: dunkin.png
+- name: dunkin
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/dunkin.png
-- name: starbucks.png
+- name: starbucks
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/starbucks.png
-- name: terraform.png
+- name: terraform
   src: https://raw.githubusercontent.com/fishpen0/spicy-memes/master/icons/logos/terraform.png
 title: logos
