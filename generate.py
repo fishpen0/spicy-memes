@@ -30,7 +30,7 @@ def get_icons(directory, iconURL):
             for file in fileList:
                 src = "{url}/{theme}/{icon}".format(url=iconURL, theme=theme, icon=file)
                 emoji = {
-                    "name": file,
+                    "name": file.split('.')[0],
                     "src": src
                 }
                 emojis.append(emoji)
